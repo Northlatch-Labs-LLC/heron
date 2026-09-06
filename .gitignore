@@ -1,0 +1,11 @@
+# OS / editor cruft
+.DS_Store
+*.swp
+
+# Secrets — this is a documentation repo, but never track live credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.token
