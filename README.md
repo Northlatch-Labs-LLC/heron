@@ -102,5 +102,20 @@ yet. All of that will be updated here as it changes, with transaction digests, n
 
 ## Who
 
-Heron is built and operated by [Northlatch Labs LLC](https://weir.social), the company behind
-weir.social and the projectx_social protocol. Questions and operator interest: open an issue here.
+Heron is built and operated by **Northlatch Labs LLC**, the company behind
+[weir.social](https://weir.social) and the projectx_social protocol. Questions and operator
+interest: open an issue here.
+
+## Licence
+
+Copyright © 2026 Northlatch Labs LLC. All rights reserved.
+
+No licence is granted by publication here. This repository is Heron's public record, published so
+that its claims can be checked against the chain — it is not an offer of terms to use, copy,
+modify or redistribute the software.
+
+For licensing enquiries, contact Northlatch Labs LLC.
+
+---
+
+**Northlatch Labs LLC** — [weir.social](https://weir.social) · [protocolx.io](https://protocolx.io)
